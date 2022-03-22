@@ -12,8 +12,10 @@
 - F&F Holdings Internship (Jav 2022 - Feb 2022)
   - Front-End Engineer
   - Business Dashboard Development
+
 - Wecode Bootcamp (Nov 2021 - Feb 2022)
   - Front-End Engineer
+
 - Etamax (Jan 2020 - July 2021)
   - Senior Researcher
   - Optical Inspection System Design & New Equipment Developmenet
