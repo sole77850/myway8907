@@ -9,13 +9,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myway8907&show_icons=true&theme=dracula)](https://github.com/myway8907)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myway8907&show_icons=true&theme=dracula)](https://github.com/myway8907)
 ## Career
-- F&F Holdings Internship (Jav 2022 - Feb 2022)
+- **F&F Holdings Internship** (Jav 2022 - Feb 2022)
   - Front-End Engineer
   - Business Dashboard Development
 
-- Wecode Bootcamp (Nov 2021 - Feb 2022)
+- **Wecode Bootcamp** (Nov 2021 - Feb 2022)
   - Front-End Engineer
 
-- Etamax (Jan 2020 - July 2021)
+- **Etamax** (Jan 2020 - July 2021)
   - Senior Researcher
   - Optical Inspection System Design & New Equipment Developmenet
