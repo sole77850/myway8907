@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Jongho Yoon's GitHub
+## Front-End Engineer - Junior
+## Skills
+<img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
 <!--
 **myway8907/myway8907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
